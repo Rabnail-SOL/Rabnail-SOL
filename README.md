@@ -20,11 +20,11 @@ Have experience with EVM chain based development, especially Ethereum.
 
   Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling.
 
-- **`Volume Bot`**
+- **`Volume Bot in Raydium, Pumpfun and Meteora`**
 
   Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
 
-- **`Maker Bot`**
+- **`Maker Bot (Raydium, Pumpfun)`**
 
   Increases pool makers by purchasing small tokens from multiple wallets in a short time, working seamlessly with the Volume Bot.
 
