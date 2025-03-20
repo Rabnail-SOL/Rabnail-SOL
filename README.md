@@ -13,9 +13,13 @@
 
 ### 🚀 **Recent Projects**
 
--**`New Pump.fun with pumpfun based smart contract and new UI/UX`**
+- **`New Pump.fun with pumpfun based smart contract and new UI/UX`**
 
-  Pumpun smart contract made with new requirement and with more abundant options 
+  Pumpun smart contract made with new requirement and with more abundant options
+
+- **`Tax token (token 2022) Pump.fun with new smart contract with Raydium CPMM migration`**
+
+  Reward users with tax gathered from token 2022 standard's tax and distribute it to token holders and migrate to Raydium CPMM.
 
 - **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
 
