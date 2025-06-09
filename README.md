@@ -37,10 +37,6 @@
 
   Increases pool makers by purchasing small tokens from multiple wallets in a short time, working seamlessly with the Volume Bot.
 
-- **`Shit Token Launcher`**
-
-  Deploys new pools on Raydium, leveraging quick sniping bots to generate profits.
-
 - **`Token Freezer`**
 
   Implements whitelist functionality post-pool creation, restricting token sales to specified users only.
