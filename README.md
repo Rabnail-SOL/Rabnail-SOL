@@ -1,13 +1,5 @@
 
-# 👋 Hi, I'm Rabnail
-
-
----
-### 🌟 **About Me**
-
-#### I am working with Solana and Sui blockchain, as a backend developer who specializes in smart contract and web3 development.
-#### Writing and deploying smart contract, launch tokens, manage liquidity and createing new type of DEX is what I am good at.
-#### Raydium, Meteora and Pumpfun in Solana, Cetus and Bluefin in SUI is what I have worked with most.
+## 👋 Hi, I'm Rabnail
 
 ---
 
@@ -51,19 +43,5 @@
 
 ---
 
-### 📚 **Recently Read Articles**
-
-- [**How to Use NextBlock for ultra low latency**](https://docs.nextblock.io/getting-started/quickstart)
-
-- [**Launching and Trading Memecoins with Pumpfun**](https://medium.com/@8093akash/explaining-pump-fun-launching-and-trading-memecoins-and-building-your-pump-fun-clone-1ecc8081c589)
-
-- [**Ultimate Guide to Sui Blockchain DEX Development 2024**](https://www.rapidinnovation.io/post/how-to-build-a-dex-on-sui-blockchain)
-
----
-
-### 💼 **Let's Connect**
-If you're looking for expertise in the Solana ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
-
----
 
 
