@@ -1,45 +1,35 @@
 
 ## 👋 Hi, I'm Rabnail
 
+As a full-stack blockchain developer, I work in DEX and DeFi projects, meme and NFT projects, game projects in Solana and EVM chains, with good skills in smart contract and backend technology.
+
 ---
 
 ### 🚀 **Recent Projects**
 
-- **`New Pump.fun with pumpfun based smart contract and new UI/UX`**
+- **`Pump.fun clone with smart contract, backend and frontend development`**
 
-  Pumpun smart contract made with new requirement and with more abundant options
+  Pumpun smart contract with all existing token standards and more available migration DEXs, with OHLCV data aggregating system.
 
-- **`Tax token (token 2022) Pump.fun with new smart contract with Raydium CPMM migration`**
+- **`EVM Pump.fun on ethereum and base, also with Pump.fun on SUI chain`**
 
-  Reward users with tax gathered from token 2022 standard's tax and distribute it to token holders and migrate to Raydium CPMM.
+  Pumpun smart contract with all existing token standards and more available migration DEXs, with OHLCV data aggregating system.
+  
+- **`Snipers, Bundler and Volume bot services in all DEXs`**
 
-- **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
-
-  Automates tracking of new pools and executes purchases using grpc (or rpc) and confirm it using modern services like Nextblock, bloXroute and lilJit.
-
-- **`Raydium and Pumpfun Bundler`**
-
-  Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling and operates market making operations on the token, and measures the profit in real-time.
-
-- **`Volume Bot in Raydium, Pumpfun and Meteora`**
-
-  Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
-
-- **`Maker Bot (Raydium, Pumpfun)`**
-
-  Increases pool makers by purchasing small tokens from multiple wallets in a short time, working seamlessly with the Volume Bot.
-
-- **`Token Freezer`**
-
-  Implements whitelist functionality post-pool creation, restricting token sales to specified users only.
-
-- **`Token Vesting and Locking Smart Contract`**
-
-  Smart contract that allows users to stake tokens or SOL with rewards based on staking duration and bonus plans, and vesting strategy applied with custom needs.
+  Snipers, Bunder and volume bot in Raydium, Pumpfun, Pumpswap and Meteora are the most essential things to start trading in technical aspect.
 
 - **`Presale IDO, ICO smart contract, various staking contract and game contract in Solana and Sui`**
 
   Smart contract development in various fields, such as DEX development, game and asset management contract development.
+
+- **`Perpetual trading bot in Hyperliquid and Aster DEX`**
+
+  Automatic trading in perpetual trading platform using automatic management system with trading strategy.
+
+- **`Binance Four.meme DEX sniper and bundler, Solana Heaven DEX sniper and bundler tools`**
+
+  Four.meme and Heaven are new DEXs in Binance smart chain and Solana chain, essential DEX trading tools are made as service.
 
 ---
 
